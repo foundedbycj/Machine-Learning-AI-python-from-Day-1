@@ -1,2 +1,3 @@
-# Machine-Learning-AI-python-from-Day-1
-<h1> Track of my ML/AI journey </h1> 
+ # Hi Everyone i am FoundedByCj 
+ <h2>This is a repository of my AI / Ml journey</h2>
+ <h2>Btw im the co founder of [Clyrex Agency](https://clyrex.in)</h2>
