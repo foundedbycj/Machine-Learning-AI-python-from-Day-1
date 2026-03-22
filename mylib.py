@@ -1,4 +1,4 @@
-import cjml as cj
+import FastML_lib.FastMl as cj
 
 #initalize the datasets (use 2 vars only)
 x = [1,2,3,4,5,6]

@@ -1,15 +1,3 @@
-class Student:
-    def __init__(self,height,name,age,smart):
-        self.height = height
-        self.name = name
-        self.age= age
-        self.smart = smart
-    def results(self):
-        print(f"stats of {self.name} are")
-        print(f"{self.name} is {self.height}")
-        print(f"{self.name} is {self.age} years of age ")
-        print(f"{self.name} is {self.smart} smart")
-
 import numpy as np
 import matplotlib.pyplot as plt
 class SimpleLinRegression:
